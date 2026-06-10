@@ -1,5 +1,8 @@
 # MGReport
 
+> [!NOTE]
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/mgreport
+
 MGReport é um componente para exibir relatório para impressão no formato A4 para Fyne.
 
 Este componente está em desenvolvimento!
